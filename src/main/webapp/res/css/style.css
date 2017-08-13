@@ -1,0 +1,209 @@
+
+.logo
+{
+	 box-shadow : 2px 2px 3px black;
+	 height : 60px;
+	 padding : 0;
+	 background : orangered;
+}
+.logo a img
+{
+	position : relative;
+	bottom : 50%;
+}
+
+
+.custom1 {
+  background: linear-gradient(to right, darkblue , orangered);
+  background-size:cover;
+  border : 2px solid  #e7e7e7;
+  box-shadow : 2px 2px 3px black;
+  
+}
+
+.demo li:hover
+{
+	background : orange;
+		
+}
+
+li.active
+{
+	background : yellowS;
+	
+}
+#a
+{
+border: 2 px solid black;
+
+}
+.text{
+	text-align:center;
+	width:500px;
+	font-size:50px;
+	height:25px;
+	color :DarkSlateBlue;
+	text-shadow: 3px 1px black ;
+	left:26%;
+	top:-3%
+	}
+	
+	#pict{
+	text-align:center;
+	width:500px;
+	font-size:50px;
+	height:25px;
+	color :DarkSlateBlue;
+	text-shadow: 3px 1px black ;
+	left:44%;
+	top:-3%
+	}
+	
+	#pi{
+	text-align:center;
+	width:500px;
+	font-size:50px;
+	height:25px;
+	color :DarkSlateBlue;
+	text-shadow: 3px 1px black ;
+	left:26%;
+	top:-1%
+	}
+	
+	
+	#pics{
+	text-align:center;
+	width:500px;
+	font-size:50px;
+	height:25px;
+	color :CornflowerBlue;
+	text-shadow: 3px 1px black ;
+	left:38%;
+	top:-5%
+	}
+	
+	#pic{
+	text-align:center;
+	width:500px;
+	font-size:50px;
+	height:25px;
+	color :Blue;
+	text-shadow: 3px 1px black ;
+	left:-6%;
+	top:7%
+	}
+	
+
+	
+body {
+  margin-bottom: 50px;
+}
+
+.footer {
+  position: absolute;
+  width: 100%;
+  height: 100px;
+ background: linear-gradient(to right, darkblue , orangered);
+  text-align: center;
+}
+
+.container{
+  margin-top: 50px;
+  color: #fff;
+  width: 100%;
+}
+
+.fa-twitter {
+    color: #4099FF;
+}
+
+.fa-facebook {
+    color: #FF6600;
+}
+
+.fa-youtube-play {
+    color: #e52d27;
+}
+.fa-rss {
+    color: #FF6600;
+}
+.fa-linkedin {
+    color:#4099FF;
+}
+.cart{
+	font-size:large;
+	color:Blue;
+	height:100%;
+}
+.id{
+	color:black;
+	background-color:orangered;
+}
+#container1
+{
+	color:aqua;
+	background-color:grey;
+	
+}
+
+.dropdown-menu
+{
+	 background: linear-gradient(to right, darkblue , orangered);
+}
+
+.dropdown-menu>li>a{
+	color:white;
+	fint-weight:bold;
+}
+.dropdown-menu>li>a:hover{
+	background-color: #999999;
+	color:white;
+	border:1px solid;
+}
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover
+{
+	background-color:#566573;
+	border-radius:15%;
+}
+.text-centr
+{
+	background: linear-gradient(to right, darkblue , orangered);
+	font-style:bold;
+	font-style:italic;
+	font-size:small;
+	color: white;
+	text-align: center;
+	
+}
+.panel-footer{
+	background-color:w3-2017-greenery;
+	font-style:bold;
+	font-style:italic;
+	color:w3-2017-navy-peony;
+}
+.jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    background-color: coral;
+    color: navy;
+}
+
+.text-center {
+	background: linear-gradient(to right, darkblue , orangered);
+    text-align: center;
+    color: white;
+    font-size: small;
+    font-style: oblique;
+}
+
+button, html input[type=button], input[type=reset], input[type=submit] {
+    -webkit-appearance: button;
+    cursor: pointer;
+    background-color: black;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: lightgoldenrodyellow;
+}
